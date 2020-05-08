@@ -20,7 +20,7 @@ Includes all roll-call records from the United States Senate from 1993 to 2018.
 
 # legislation.json
 
-Includes all legislation from 1993 to 2018
+Includes all legislation from 1993 to 2018.
 
 # member_dic.json
 
